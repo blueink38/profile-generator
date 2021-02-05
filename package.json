@@ -1,0 +1,22 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueink38/profile-generator.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueink38/profile-generator/issues"
+  },
+  "homepage": "https://github.com/blueink38/profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
